@@ -1,0 +1,2 @@
+# CryptoBootstrap
+Cryptocurrency Bootstrap Research
